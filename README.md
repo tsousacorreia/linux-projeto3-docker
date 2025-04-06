@@ -70,21 +70,23 @@ Antes de rodar o projeto, é necessário ter instalado:
 
 ### ▶️ Como Executar o Projeto
 
-1. Clone ou copie a estrutura do projeto.
+1. Crie um fork desse repositório
+
+2. Clone ou copie a estrutura do projeto.
     
     ```
     git clone https://github.com/seu-usuario/linux-projeto3-docker.git
 
-2. No terminal, navegue até o diretório do projeto.
+3. No terminal, navegue até o diretório do projeto.
 
     ```
     cd linux-projeto3-docker
 
-3. Execute o comando:
+4. Execute o comando:
 
         docker-compose up --build
 
-4. Acesse no navegador:
+5. Acesse no navegador:
    
     http://<IP_DA_VM>:4500/home.html
 
